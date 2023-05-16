@@ -13,6 +13,6 @@ cursorobject = dataBase.cursor()
 
 #create database
 
-cursorobject.execute("CREATE DATABASE dcrmdb")
+cursorobject.execute("CREATE DATABASE djangodb")
 
 print("All Done")
